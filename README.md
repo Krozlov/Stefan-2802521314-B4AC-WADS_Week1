@@ -2,8 +2,8 @@
 
 ## Student Information
 - Name: Stefan Luciano Kencana
-- Student ID: 2501234567
-- Class: WADS-A
+- Student ID: 2802521314
+- Class: B4AC
 
 ---
 
